@@ -2,13 +2,13 @@
 
 
 # What i m working on ?   
-  &rarr make a fast dithering (available soon)  https://github.com/lobthere/lobthere/edit/main/README.md
+  &rarr; make a fast dithering (available soon)  https://github.com/lobthere/lobthere/edit/main/README.md
     done so far :   
-      &rarr done it in python   
-      &rarr done it in C (single threaded)   
+      &rarr; done it in python   
+      &rarr; done it in C (single threaded)   
     upcomming :   
-      &rarr doing it in C (multi threading)   
-      &rarr doing it with cuda in C   
+      &rarr; doing it in C (multi threading)   
+      &rarr; doing it with cuda in C   
 <!--
 **lobthere/lobthere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
