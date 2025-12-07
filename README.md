@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+# What i m working on ?
+  -> make a fast dithering (available soon)
+    done so far : 
+      -> done it in python
+      -> done it in C (single threaded)
+    upcomming :
+      -> doing it in C (multi threading)
+      -> doing it with cuda in C
 <!--
 **lobthere/lobthere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
